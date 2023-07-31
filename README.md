@@ -1,4 +1,4 @@
-#  BitcoinJ-SV
+# BitcoinJ-SV
 
 The `BitcoinJ-SV` library is a Java implementation of the original Bitcoin (BSV) protocol. This library is a fork of Mike Hearn's original bitcoinj 
 library aimed at supporting the rapidly expanding and scalable Bitcoin SV eco-system.
